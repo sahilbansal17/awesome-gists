@@ -99,7 +99,7 @@ All contributors will be acknowledged in the project. Significant contributions 
 
 ## 📄 License
 
-By contributing, you agree that your contributions will be licensed under the same Creative Commons Zero v1.0 Universal license as the project.
+By contributing, you agree that your contributions will be licensed under the same [Creative Commons Zero v1.0 Universal](LICENSE.md) license as the project. This means your contributions will be dedicated to the public domain worldwide.
 
 ---
 
