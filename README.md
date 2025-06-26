@@ -1,8 +1,7 @@
 # 🚀 Awesome Gists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/sahilbansal17/awesome-gists?style=social)](https://github.com/sahilbansal17/awesome-gists/stargazers)
 
-> A curated collection of amazing GitHub Gists for developers across different domains
-
-A comprehensive collection of useful GitHub Gists organized by categories to serve as a single point of learning for programmers worldwide. This list is updated regularly with new and valuable resources.
+A hand-picked list of star-worthy **gists**: language-agnostic code snippets, system-design diagrams, CLI hacks & interview helpers.
 
 ## 📋 Table of Contents
 
