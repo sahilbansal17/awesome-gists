@@ -78,6 +78,12 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [Phone Masks by Country Code JSON](https://gist.github.com/mikemunsie/d58d88cad0281e4b187b0effced769b2) - (by @mikemunsie)
 - [Chocolatey Cheat Sheet](https://gist.github.com/yunga/99d04694e2466e017c5502d7c828d4f4) - (by @yunga)
 - [⚡️ Full Markdown Example](https://gist.github.com/allysonsilva/85fff14a22bbdf55485be947566cc09e) - (by @allysonsilva)
+- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) - tmux keyboard shortcuts and quick reference (by @MohamedAlaa)
+- [curl POST examples](https://gist.github.com/subfuzion/08c5d85437d5d4f00e58) - Examples for making POST requests with curl (by @subfuzion)
+- [Export TOTP tokens from Authy](https://gist.github.com/gboudreau/94bb0c11a6209c82418d01a59d958c93) - Guide to exporting TOTP tokens from Authy (by @gboudreau)
+- [Stripe keys and IDs](https://gist.github.com/fnky/76f533366f75cf75802c8052b577e2a5) - Reference for Stripe API keys and IDs (by @fnky)
+- [Vagrant Cheat Sheet](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4) - Vagrant commands and options quick reference (by @wpscholar)
+- [PowerShell Cheat Sheet / Quick Reference](https://gist.github.com/pcgeek86/336e08d1a09e3dd1a8f0a30a9fe61c8a) - PowerShell commands and syntax (by @pcgeek86)
 
 ## 🗃️ Version Control (Git)
 
@@ -102,6 +108,9 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [.gitignore for Unity3d project](https://gist.github.com/FullStackForger/20bbf62861394b1a3de0) - (by @FullStackForger)
 - [Tutorial for automatically syncing an Obsidian vault with Git on an Android device](https://gist.github.com/Makeshift/43c7ecb3f1c28a623ea4386552712114) - (by @Makeshift)
 - [Remove unwanted files from a git repo AFTER adding a .gitignore.](https://gist.github.com/jeffjohnson9046/80bc182db7ae2f4a6150) - (by @jeffjohnson9046)
+- [Create a private fork of a public repository](https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274) - How to privately fork public repos (by @0xjac)
+- [Set up GitHub push with SSH keys](https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278) - Guide for SSH-based GitHub pushes (by @xirixiz)
+- [Git Tips and Git Commit Best Practices](https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60) - Tips and best practices for Git commits (by @luismts)
 
 ## 💾 Databases
 
@@ -114,8 +123,7 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [Arel cheatsheet on Steroids](https://gist.github.com/ProGM/c6df08da14708dcc28b5ca325df37ceb) - (by @ProGM)
 - [Modern SQL Style Guide](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb) - (by @mattmc3)
 - [Functions for generating UUIDv6 and UUIDv7 on PostgreSQL](https://gist.github.com/fabiolimace/515a0440e3e40efeb234e12644a6a346) - (by @fabiolimace)
-- [phpMyAdmin Export Filename Template, Including Date and Time](https://gist.github.com/iamphilrae/d538d5b48608de290bfee791df3e6f54) - (by @iamphilrae)
-- [Build SQLite3 .lib file on windows](https://gist.github.com/zeljic/d8b542788b225b1bcb5fce169ee28c55) - (by @zeljic)
+- [phpMyAdmin Export Filename Template, Including Date and Time](https://gist.github.com/iamphilrae/d538d5b48608de290bfee791df3e6f54) - Custom export filename templates for phpMyAdmin (by @iamphilrae)
 
 ## 🎯 Programming Languages
 
@@ -132,14 +140,14 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [Unity3D: script to save an AudioClip as a .wav file.](https://gist.github.com/darktable/2317063) - (by @darktable)
 - [Node con TypeScript - TS-Node-dev simplificado](https://gist.github.com/Klerith/3ba17e86dc4fabd8301a59699b9ffc0b) - (by @Klerith)
 - [Awesome PHP Libraries and Resources](https://gist.github.com/llbbl/7607016) - (by @llbbl)
-- [Note + TypeScript + Jest = Testing](https://gist.github.com/Klerith/98d7b1bc0f1525e892f260813cad1007) - (by @Klerith)
+- [Note + TypeScript + Jest = Testing](https://gist.github.com/Klerith/98d7b1bc0f1525e892f260813cad1007) - TypeScript and Jest testing patterns (by @Klerith)
 - [Introduction to "Fun" C (using GCC)](https://gist.github.com/eatonphil/21b3d6569f24ad164365) - (by @eatonphil)
 - [Dub techno in Sonic Pi](https://gist.github.com/jindrichmynarz/f233f75c719abe6a6c81) - (by @jindrichmynarz)
 - [Swift Keyboard Keycodes](https://gist.github.com/swillits/df648e87016772c7f7e5dbed2b345066) - (by @swillits)
 - [A Rust Syntax Guide](https://gist.github.com/brson/9dec4195a88066fa42e6) - (by @brson)
 - [Jetpack Compose OverlayService](https://gist.github.com/handstandsam/6ecff2f39da72c0b38c07aa80bbb5a2f) - (by @handstandsam)
 - [MacBook Air M1 Zhuyin Keyboard written with SwiftUI ~=300 LOC, < 4hrs](https://gist.github.com/ethanhuang13/8587d10689e3735354f975f6a25ef9fa) - (by @ethanhuang13)
-- [VBA Function to get the local path of a OneDrive/SharePoint synchronized Microsoft Office file](https://gist.github.com/guwidoe/038398b6be1b16c458365716a921814d) - (by @guwidoe)
+- [VBA Function to get the local path of a OneDrive/SharePoint synchronized Microsoft Office file](https://gist.github.com/guwidoe/038398b6be1b16c458365716a921814d) - VBA for OneDrive/SharePoint file paths (by @guwidoe)
 - [Shuffle Array - JavaScript ES2015, ES6](https://gist.github.com/guilhermepontes/17ae0cc71fa2b13ea8c20c94c5c35dc4) - (by @guilhermepontes)
 - [How I implement SSA form](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963) - (by @pizlonator)
 
@@ -147,7 +155,7 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 
 - [Facebook Production Engineering Interview](https://gist.github.com/ameenkhan07/4f0a65fb2bdec58656850f09ef8e2c48) - Interview questions and preparation guide for Facebook PE role (by @ameenkhan07)
 - [Grokking the coding interview equivalent leetcode problems](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4) - LeetCode problems mapped to Grokking the Coding Interview patterns (by @tykurtz)
-- [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Key insights from "The Effective Engineer" book (by @rondy)
+- [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Notes from "The Effective Engineer" (by @rondy)
 
 ## 🏗️ System Design & Architecture
 
@@ -169,7 +177,8 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [How to start in Infosec](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31) - (by @mubix)
 - [Download Cradles](https://gist.github.com/HarmJ0y/bb48307ffa663256e239) - (by @HarmJ0y)
 - [1 bug, $50,000+ in bounties, how Zendesk intentionally left a backdoor in hundreds of Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) - (by @hackermondev)
-- [ELF Format Cheatsheet](https://gist.github.com/x0nu11byt3/bcb35c3de461e5fb66173071a2379779) - (by @x0nu11byt3)
+- [Options for hardening systemd service units](https://gist.github.com/ageis/f5595e59b1cddb1513d1b425a323db04) - Security options for systemd units (by @ageis)
+- [ELF Format Cheatsheet](https://gist.github.com/x0nu11byt3/bcb35c3de461e5fb66173071a2379779) - ELF binary format reference (by @x0nu11byt3)
 - [Technical guide for using YubiKey series 4 for GPG and SSH](https://gist.github.com/ageis/14adc308087859e199912b4c79c4aaa4) - (by @ageis)
 - [full English translation of Phineas Fisher's account of how he took down HackingTeam](https://gist.github.com/jaredsburrows/9e121d2e5f1147ab12a696cf548b90b0) - (by @jaredsburrows)
 - [YARA Performance Guidelines](https://gist.github.com/Neo23x0/e3d4e316d7441d9143c7) - (by @Neo23x0)
@@ -194,7 +203,7 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [Cursor AI Prompting Rules](https://gist.github.com/aashari/07cc9c1b6c0debbeb4f4d94a3a81339e) - (by @aashari)
 - [Cursor Agent System Prompt (March 2025)](https://gist.github.com/sshh12/25ad2e40529b269a88b80e7cf1c38084) - (by @sshh12)
 - [ChatGPT streaming with ruby-openai, Rails 7, Hotwire, Turbostream, Sidekiq and Tailwind!](https://gist.github.com/alexrudall/cb5ee1e109353ef358adb4e66631799d) - (by @alexrudall)
-- [REALITY FILTER — A LIGHTWEIGHT TOOL TO REDUCE LLM FICTION WITHOUT PROMISING PERFECTION](https://gist.github.com/iamnolanhu/0aa559ef8a9988aaf9cf3e2cb637f06c) - (by @iamnolanhu)
+- [REALITY FILTER — A LIGHTWEIGHT TOOL TO REDUCE LLM FICTION WITHOUT PROMISING PERFECTION](https://gist.github.com/iamnolanhu/0aa559ef8a9988aaf9cf3e2cb637f06c) - Reduce LLM hallucinations (by @iamnolanhu)
 - [The Claude-SPARC Automated Development System is a comprehensive, agentic workflow for automated software development using the SPARC methodology with the Claude Code CLI](https://gist.github.com/ruvnet/e8bb444c6149e6e060a785d1a693a194) - (by @ruvnet)
 - [The Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) - (by @curran)
 - [Unminified prompts and tool definitions for Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) - (by @transitive-bullshit)
@@ -202,6 +211,7 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [Collection of useful Stable Diffusion prompt modifiers](https://gist.github.com/thesephist/376afed2cbfce35d4b37d985abe6d0a1) - (by @thesephist)
 - [reflection.md - a way to have claude-code self improve its context.](https://gist.github.com/a-c-m/f4cead5ca125d2eaad073dfd71efbcfc) - (by @a-c-m)
 - [An overview of action recognition datasets and their detection classes](https://gist.github.com/jin-zhe/3a6054e99162bc9277940867f942bba2) - (by @jin-zhe)
+- [Export Tofu TOTP tokens](https://gist.github.com/namazso/29edc56a0095ea2b9e9d0e27e4d52d7d) - Exporting Tofu TOTP tokens (by @namazso)
 
 ## 🎨 Frontend & Design
 
@@ -222,6 +232,9 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [List of free resources to study computer graphics programming.](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9) - (by @notnotrobby)
 - [Linux Networking Reading List](https://gist.github.com/eenblam/2e610de9dd089188b354595f10f99823) - (by @eenblam)
 - [Links for beginners willing to contribute to OpenSource projects](https://gist.github.com/stefanmaric/d5a03eeb89af81e5537e2efe7dd479cf) - (by @stefanmaric)
+- [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611) - Steve Yegge's famous Google rant (by @chitchcock)
+- [SOLID Principles explained in Python with examples.](https://gist.github.com/dmmeteo/f630fa04c7a79d3c132b9e9e5d037bfd) - SOLID principles in Python (by @dmmeteo)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A must-read guide to understanding Reactive Programming (by @staltz)
 
 ## 🛠️ DevOps & Infrastructure
 
@@ -252,11 +265,14 @@ A hand-picked list of star-worthy **gists**: language-agnostic code snippets, sy
 - [Proxmox CIFS Share Mount Wizard Script](https://gist.github.com/NorkzYT/14449b247dae9ac81ba4664564669299) - (by @NorkzYT)
 - [Purging old artifacts with GitHub Actions API](https://gist.github.com/qwe321qwe321qwe321/efae4569576006624c34f23b2dd76a58) - (by @qwe321qwe321qwe321)
 - [Marlin Anet A8 config](https://gist.github.com/istepanov/e6e53879c0a359530917ef654b309a5c) - (by @istepanov)
+- [oracle-cloud-free-tier-guide](https://gist.github.com/rssnyder/51e3cfedd730e7dd5f4a816143b25dbd) - Guide to Oracle Cloud free tier (by @rssnyder)
+- [BusyBox cron container example](https://gist.github.com/andyshinn/3ae01fa13cb64c9d36e7) - Example of running cron jobs in BusyBox containers (by @andyshinn)
 
 ## 💡 Project Ideas
 
 - [Project ideas](https://gist.github.com/MWins/41c6fec2122dd47fdfaca31924647499) - Collection of programming project ideas for skill development (by @MWins)
 - [TheUrlist PRD](https://gist.github.com/burkeholland/24802296b5bfaaf7fb775c81cd626512) - (by @burkeholland)
+- [A curated list of Assembly Language / Reversing / Malware Analysis / Game Hacking-resources](https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121) - Assembly, reversing, malware, and game hacking resources (by @muff-in)
 
 ---
 
